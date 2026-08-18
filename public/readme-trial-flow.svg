@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">The Better Call Shell trial flow</title><desc id="desc">Pull request intake, charges, defense, evidence, and verdict.</desc>
+  <rect width="1200" height="210" rx="22" fill="#171410"/><path d="M110 106h980" stroke="#F5EFDF" stroke-width="8" stroke-dasharray="14 12" opacity=".45"/>
+  <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle" font-weight="800">
+    <g transform="translate(120 105)"><circle r="62" fill="#244A3A" stroke="#E9A928" stroke-width="7"/><text y="-8" fill="#F5EFDF" font-size="19">PULL</text><text y="17" fill="#F5EFDF" font-size="19">REQUEST</text><text y="92" fill="#F5EFDF" font-size="17">INTAKE</text></g>
+    <g transform="translate(360 105)"><circle r="62" fill="#D8442F" stroke="#F5EFDF" stroke-width="7"/><text y="7" fill="#F5EFDF" font-size="24">CHARGES</text><text y="92" fill="#F5EFDF" font-size="17">PROSECUTION</text></g>
+    <g transform="translate(600 105)"><circle r="62" fill="#E9A928" stroke="#F5EFDF" stroke-width="7"/><text y="7" fill="#171410" font-size="24">DEFENSE</text><text y="92" fill="#F5EFDF" font-size="17">CONTEXT</text></g>
+    <g transform="translate(840 105)"><circle r="62" fill="#F5EFDF" stroke="#D8442F" stroke-width="7"/><text y="7" fill="#171410" font-size="23">EVIDENCE</text><text y="92" fill="#F5EFDF" font-size="17">REPRODUCE</text></g>
+    <g transform="translate(1080 105)"><circle r="62" fill="#244A3A" stroke="#E9A928" stroke-width="7"/><text y="7" fill="#F5EFDF" font-size="24">VERDICT</text><text y="92" fill="#F5EFDF" font-size="17">RUNTIME RULES</text></g>
+  </g>
+  <g fill="#E9A928"><path d="m205 96 24 10-24 10zM445 96l24 10-24 10zM685 96l24 10-24 10zM925 96l24 10-24 10z"/></g>
+</svg>
